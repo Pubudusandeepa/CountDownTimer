@@ -1,0 +1,33 @@
+.clock{
+   
+    margin-left: 400px;
+    background-color: blue;
+    width: 600px;
+    text-align: center;
+    color: white;
+    font-size: 1em;
+}
+.clock > span {
+   
+    padding: 30px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: black;
+
+}
+.clock > span >span {
+    padding: 5px;
+    border-radius: 10px;
+    background-color: red;
+
+}
+input{
+    margin-left: 550px;
+    padding: 15px;
+   margin-bottom: 100px;
+    font-size: 1.5em;
+
+}
+body{
+    background-color: aqua;
+}
